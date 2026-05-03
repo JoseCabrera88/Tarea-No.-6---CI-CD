@@ -1,0 +1,16 @@
+{
+  "name": "app-bienvenida",
+  "version": "1.0.0",
+  "description": "Aplicación web básica con mensaje de bienvenida",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["web", "bienvenida"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
