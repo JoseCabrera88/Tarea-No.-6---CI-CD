@@ -75,7 +75,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>¡Bienvenido!</h1>
+        <h1>¡Bienvenido! - Despliegue Automático en Azure</h1>
         <p>Tu aplicación Node.js se está ejecutando correctamente.</p>
         
         <div class="info">
